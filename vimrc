@@ -29,6 +29,8 @@ Plugin 'VundleVim/Vundle.vim'
 " Plugin 'user/L9', {'name': 'newL9'}
 
 
+Plugin 'scrooloose/nerdtree'
+
 
 
 " All of your Plugins must be added before the following line
