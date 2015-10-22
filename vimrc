@@ -30,6 +30,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 
 Plugin 'scrooloose/nerdtree'
+Plugin 'altercation/vim-colors-solarized'
 
 
 
