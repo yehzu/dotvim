@@ -49,3 +49,4 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 "
 source ~/.vim/settings/general_settings.vim
+source ~/.vim/settings/shortcuts.vim
