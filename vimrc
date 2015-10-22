@@ -29,11 +29,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Plugin 'user/L9', {'name': 'newL9'}
 
 
-Plugin 'scrooloose/nerdtree'
-Plugin 'altercation/vim-colors-solarized'
-Plugin 'scrooloose/nerdcommenter'
-Plugin 'Raimondi/delimitMate' 
-
+source ~/.vim/plugin_list.vim
 
 
 " All of your Plugins must be added before the following line
