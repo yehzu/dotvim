@@ -49,6 +49,4 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 "
-source ~/.vim/settings/general_settings.vim
-source ~/.vim/settings/shortcuts.vim
-source ~/.vim/settings/nerdtree.vim
+source ~/.vim/settings/entry.vim
