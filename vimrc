@@ -31,10 +31,9 @@ Plugin 'VundleVim/Vundle.vim'
 
 
 Plugin 'scrooloose/nerdtree'
-Plugin 'altercation/vim-colors-solarized'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'Raimondi/delimitMate' 
-
+Plugin 'morhetz/gruvbox'
 
 
 " All of your Plugins must be added before the following line
