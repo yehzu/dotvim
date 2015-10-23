@@ -29,13 +29,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Avoid a name conflict with L9
 " Plugin 'user/L9', {'name': 'newL9'}
 
-
-Plugin 'scrooloose/nerdtree'
-Plugin 'scrooloose/nerdcommenter'
-Plugin 'Raimondi/delimitMate' 
-Plugin 'morhetz/gruvbox'
-Plugin 'bling/vim-airline'
-Plugin 'Shougo/unite.vim'
+runtime plugin_list.vim
 
 
 " All of your Plugins must be added before the following line
