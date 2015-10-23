@@ -35,6 +35,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'Raimondi/delimitMate' 
 Plugin 'morhetz/gruvbox'
 Plugin 'bling/vim-airline'
+Plugin 'Shougo/unite.vim'
 
 
 " All of your Plugins must be added before the following line
