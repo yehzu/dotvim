@@ -3,7 +3,8 @@ filetype off
 
 
 " set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
+set rtp+=$HOME/vimfiles/bundle/Vundle.vim
+set rtp+=$HOME/.vim/bundle/Vundle.vim
 
 call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
@@ -51,4 +52,4 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 "
-source ~/.vim/settings/entry.vim
+runtime settings/entry.vim

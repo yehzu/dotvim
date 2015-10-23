@@ -1,3 +1,3 @@
-source ~/.vim/settings/general_settings.vim
-source ~/.vim/settings/shortcuts.vim
-source ~/.vim/settings/nerdtree.vim
+runtime settings/general_settings.vim
+runtime settings/shortcuts.vim
+runtime settings/nerdtree.vim
