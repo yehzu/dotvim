@@ -7,12 +7,15 @@ syntax on
 set linespace=0
 
 set background=dark
-" colorscheme solarized
 colorscheme gruvbox
 
 " make the invisiable character showing on the screen
 set listchars=eol:$,tab:>-,trail:.,extends:>,precedes:<
 set list
+
+
+" line number
+set nu
 
 " tab space replacement
 set expandtab
