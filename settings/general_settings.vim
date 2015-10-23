@@ -1,3 +1,8 @@
+let $LANG = 'en.UTF-8'  "set message language
+set langmenu=en_gb.utf-8   "set menu's language of gvim. no spaces beside '='
+set encoding=utf8
+language messages en.utf-8
+
 syntax on
 set linespace=0
 
