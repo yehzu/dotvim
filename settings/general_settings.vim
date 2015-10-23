@@ -7,7 +7,9 @@ syntax on
 set linespace=0
 
 " Colorscheme
-let g:solarized_termcolors=256
+if has('gui_running')
+    let g:solarized_termcolors=256
+endif
 set background=dark
 colorscheme solarized
 
