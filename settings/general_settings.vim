@@ -1,6 +1,5 @@
 let $LANG = 'en.UTF-8'  "set message language
 set encoding=utf8
-language messages en.utf-8
 
 syntax on
 set linespace=0
