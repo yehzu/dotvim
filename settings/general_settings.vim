@@ -1,6 +1,9 @@
 let $LANG = 'en.UTF-8'  "set message language
 set encoding=utf8
 
+" set backspace behavior
+set backspace=eol,start
+
 syntax on
 set linespace=0
 
