@@ -3,7 +3,7 @@ let g:mapleader = ","
 
 
 " to normal mode
-imap jj <esc> 
+imap jj <esc>
 
 " change split windows
 nnoremap <leader>v <C-w>v<C-w>l
