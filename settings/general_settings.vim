@@ -28,3 +28,9 @@ set laststatus=2
 
 " set syntax highlight len
 set synmaxcol=5000
+
+" search hightlight
+set hlsearch
+
+" remove tailing witespaces on saving
+autocmd BufWritePre * %s/\s\+$//e
